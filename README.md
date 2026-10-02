@@ -2,8 +2,8 @@
 
 <img align="right" src="core/assets/images/icon/256.png" height="256" width="256">
 
-# Rhythm Heaven Remix Editor (RHRE)
-A custom remix editor for the [Rhythm Heaven](https://en.wikipedia.org/wiki/Rhythm_Heaven_Megamix) series
+# Rhythm Heaven Remix Editor + (RHRE+)
+A custom remix editor for the Fanmade series
 
 ### [Download the latest release here!](https://github.com/chrislo27/RhythmHeavenRemixEditor/releases/latest)
 
