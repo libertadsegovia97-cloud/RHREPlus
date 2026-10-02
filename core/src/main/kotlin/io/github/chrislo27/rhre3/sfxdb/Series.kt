@@ -5,10 +5,7 @@ import java.util.*
 
 enum class Series(val console: String = "") {
 
-    OTHER,
-    TENGOKU("GBA"), DS("DS"), FEVER("Wii"), MEGAMIX("3DS"),
-//    SWITCH("Switch"),
-    SIDE;
+    OTHER
 
     companion object {
         val VALUES: List<Series> = Series.values().toList()
